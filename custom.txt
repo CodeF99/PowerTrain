@@ -1,0 +1,50 @@
+Custom:Penetration Testing:Compromise Analysis
+>>[[ consultant_name ]] lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Curabitur pretium tincidunt lacus. Nulla gravida orci a odio. Nullam varius, turpis et commodo pharetra, est eros bibendum elit, nec luctus magna felis sollicitudin mauris. Integer in mauris eu nibh euismod gravida. Duis ac tellus et risus vulputate vehicula. Donec lobortis risus a elit. Etiam tempor. Ut ullamcorper, ligula eu tempor congue, eros est euismod turpis, id tincidunt sapien risus a quam. Maecenas fermentum consequat mi. Donec fermentum. Pellentesque malesuada nulla a mi. Duis sapien sem, aliquet nec, commodo eget, consequat quis, neque. Aliquam faucibus, elit ut dictum aliquet, felis nisl adipiscing sapien, sed malesuada diam lacus eget erat. Cras mollis scelerisque nunc. Nullam arcu. Aliquam consequat. Curabitur augue lorem, dapibus quis, laoreet et, pretium ac, nisi. Aenean magna nisl, mollis quis, molestie eu, feugiat in, orci. In hac habitasse platea dictumst.
+>>In hac habitasse platea dictumst:
+Linux 2.6.x
+Windows 7 or 8
+Windows NT kernel
+Windows NT kernel 5.x
+ 
+>>In hac habitasse platea dictumst:
+
+>>In hac habitasse platea dictumst:
+ 
+>>In hac habitasse platea dictumst:
+192.168.1.1
+ 
+>>In hac habitasse platea dictumst:
+ 
+>>In hac habitasse platea dictumst:
+ 
+>>In hac habitasse platea dictumst:
+ 
+>>In hac habitasse platea dictumst:
+ 
+>>In hac habitasse platea dictumst:
+ 
+>>In hac habitasse platea dictumst:
+      1 	France
+      1 	Ireland
+      3 	Italy
+      1 	Japan
+     15 	Netherlands
+      1 	United Kingdom
+    148 	United States
+ 
+>>In hac habitasse platea dictumst:
+      7 	Akamai Technologies, Inc.
+     13 	Amazon.com, Inc.
+     63 	Amazon Technologies Inc.
+      7 	Facebook, Inc.
+      2 	Google LLC
+      1 	Level 3 Parent, LLC
+      3 	Microsoft Corporation
+      3 	Red Hat, Inc.
+      1 	StackPath, LLC.
+      1 	Sucuri
+ 
+>>Credentials Harvested:
+ 192.168.1.50   TCP 80   USER: acme_user 	PASS: acme_password

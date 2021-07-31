@@ -1,0 +1,8 @@
+powertrain
+client_long_name="Example Company"
+client_short_name="Example"
+consultant_name="Sabreware"
+domain_name="example.com"                               *optional for OSINT
+coverpage=""                                            *leave empty for no coverpage
+coverpage_title="Internetwork Assessment Report"
+color=""                                                *leave empty to use default in form

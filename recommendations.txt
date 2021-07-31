@@ -1,0 +1,5 @@
+recommendations
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit
+* Curabitur pretium tincidunt lacus
+* Aenean magna nisl, mollis quis, molestie eu
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit
